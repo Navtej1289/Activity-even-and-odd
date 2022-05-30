@@ -1,5 +1,6 @@
 # Activity-even-and-odd
 given input file
+enter input in input.txt
 enter if function
 if given input is divisible by 2,then the number is sent to the file even.txt
 enter else function
